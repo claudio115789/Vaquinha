@@ -9,11 +9,64 @@
       "Vaquinha.Domain/1.0.0": {
         "dependencies": {
           "FluentValidation.AspNetCore": "8.6.2",
+          "GitHub": "1.32.0",
           "Polly": "7.2.1",
           "RestSharp": "106.10.1"
         },
         "runtime": {
           "Vaquinha.Domain.dll": {}
+        }
+      },
+      "Carbon.Data.Protection/1.4.0": {
+        "runtime": {
+          "lib/netstandard2.1/Carbon.Data.Protection.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
+      "Carbon.Packaging/1.48.0": {
+        "dependencies": {
+          "Carbon.Data.Protection": "1.4.0",
+          "Carbon.Storage": "3.0.0",
+          "Carbon.Versioning": "1.9.0",
+          "System.Text.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Carbon.Packaging.dll": {
+            "assemblyVersion": "1.48.0.0",
+            "fileVersion": "1.48.0.0"
+          }
+        }
+      },
+      "Carbon.Storage/3.0.0": {
+        "dependencies": {
+          "System.Text.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Carbon.Storage.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "Carbon.VersionControl/2.5.0": {
+        "dependencies": {
+          "Carbon.Storage": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Carbon.VersionControl.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      },
+      "Carbon.Versioning/1.9.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Carbon.Versioning.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
         }
       },
       "FluentValidation/8.6.2": {
@@ -51,6 +104,18 @@
           }
         }
       },
+      "GitHub/1.32.0": {
+        "dependencies": {
+          "Carbon.Packaging": "1.48.0",
+          "Carbon.VersionControl": "2.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GitHub.dll": {
+            "assemblyVersion": "1.32.0.0",
+            "fileVersion": "1.32.0.0"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {},
       "Polly/7.2.1": {
         "runtime": {
@@ -68,7 +133,15 @@
           }
         }
       },
-      "System.ComponentModel.Annotations/4.4.1": {}
+      "System.ComponentModel.Annotations/4.4.1": {},
+      "System.Text.Json/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -76,6 +149,41 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Carbon.Data.Protection/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1/XuD204lT2tOta2w8g6P3F1pwI2vWxBl8aRjwHtvE7+bPmo7J9d9mgw9u3tjwSi8sHEfqzai1IZtuOWNQqlYA==",
+      "path": "carbon.data.protection/1.4.0",
+      "hashPath": "carbon.data.protection.1.4.0.nupkg.sha512"
+    },
+    "Carbon.Packaging/1.48.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j7+ZPjpRrFveM97ZBHHsSxn+tXStgEztVh7hba+9Nd9vt2kyrBT5aGX8QNLvg2va01b1NQvSj0Ksuqo0HS+oZg==",
+      "path": "carbon.packaging/1.48.0",
+      "hashPath": "carbon.packaging.1.48.0.nupkg.sha512"
+    },
+    "Carbon.Storage/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7DBV4PjXz9v5E4Y2u9kgRbSO7O047F8UU2O1sg2tk1tnfTA35aN8k4xrcA8ulhyFwNeoOavFMbwb5W94Gua9Qw==",
+      "path": "carbon.storage/3.0.0",
+      "hashPath": "carbon.storage.3.0.0.nupkg.sha512"
+    },
+    "Carbon.VersionControl/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6Xk3Sg5OUH3TDGLIKVrXdmfZ5+iSZWj//voPIcwEJS1DJQTOEtJG/aJOMjyNLDGDtrT3wpUMPT5TLRFrEBQNOA==",
+      "path": "carbon.versioncontrol/2.5.0",
+      "hashPath": "carbon.versioncontrol.2.5.0.nupkg.sha512"
+    },
+    "Carbon.Versioning/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nps5e3/VF6wb4daWshK9vNs+fBa0RwhTjmoRGn7evWsP+pB1li/MKtsRPfWyB83HcRRLoKspoVX1hyCPbiTcmw==",
+      "path": "carbon.versioning/1.9.0",
+      "hashPath": "carbon.versioning.1.9.0.nupkg.sha512"
     },
     "FluentValidation/8.6.2": {
       "type": "package",
@@ -97,6 +205,13 @@
       "sha512": "sha512-A3Hw0xjB/j6b/UiC8RgLsp5TkApZOsLzh5LAmfZkbQpWBrAqo8B4eOm+uyYhN3crSg0E6kgse8k6EdZpRoj+sQ==",
       "path": "fluentvalidation.dependencyinjectionextensions/8.6.2",
       "hashPath": "fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512"
+    },
+    "GitHub/1.32.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9cS7WiD3TBbIH5lG/fNAxw+Az9MSbPAfKuPhfgMnHrJfJVbPO+JWC57r0g0/WWmYhpHRDIRFzYs4jrq0fiwscw==",
+      "path": "github/1.32.0",
+      "hashPath": "github.1.32.0.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
       "type": "package",
@@ -125,6 +240,13 @@
       "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
       "path": "system.componentmodel.annotations/4.4.1",
       "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    },
+    "System.Text.Json/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+luxMQNZ2WqeffBU7Ml6njIvxc8169NW2oU+ygNudXQGZiarjE7DOtN7bILiQjTZjkmwwRZGTtLzmdrSI/Ustw==",
+      "path": "system.text.json/5.0.0",
+      "hashPath": "system.text.json.5.0.0.nupkg.sha512"
     }
   }
 }
