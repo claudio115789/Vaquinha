@@ -10695,11 +10695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
       "projectName": "Vaquinha.MVC",
-      "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+      "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
       "packagesPath": "C:\\Users\\claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\obj\\",
+      "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10716,11 +10716,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
-              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
+            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
+              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
             },
-            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
-              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj"
+            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj": {
+              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Service\\Vaquinha.Service.csproj"
             }
           }
         }

@@ -5391,11 +5391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
       "projectName": "Vaquinha.Repository",
-      "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
+      "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
       "packagesPath": "C:\\Users\\claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\obj\\",
+      "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5412,8 +5412,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
-              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
+            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj": {
+              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj"
             }
           }
         }

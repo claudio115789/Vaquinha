@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHUl3bsZf0n7N+hVyk8cfjn19w05AtfDO8YjUkDUNdVOd1uXSKDEVqxq27AUkRYIPQZGhDpdjolJFj1x2ne1cQ==",
+  "dgSpecHash": "HXWWDgn8ku40b7w4Src/KVHTGSTdQlepQ5teLraiLl3U1gf7C018M9y3AeflIF50P1dSgOFYKyD9hZYEPWL4Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
+  "projectFilePath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\claudio\\.nuget\\packages\\carbon.data.protection\\1.4.0\\carbon.data.protection.1.4.0.nupkg.sha512",
     "C:\\Users\\claudio\\.nuget\\packages\\carbon.packaging\\1.48.0\\carbon.packaging.1.48.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "krE42UZf/juVL1H14BAMhjDaDMh4WISlPOu+X02Vpy7EhtscWvcAVNfET2nScUPlJZuEcBO1M0ExsF1O9ywflA==",
+  "dgSpecHash": "vdZlWzYJfFP/oMTlWlF17agIxzB35Ounu5JYin5pIQw4DeWuUqEkO26iwlocsRSoWixpC0fgWAIJJaNr1AWmFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Unit.Tests\\Vaquinha.Unit.Tests.csproj",
+  "projectFilePath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Unit.Tests\\Vaquinha.Unit.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\claudio\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\claudio\\.nuget\\packages\\bogus\\29.0.2\\bogus.29.0.2.nupkg.sha512",

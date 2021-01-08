@@ -12133,11 +12133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
       "projectName": "Vaquinha.Integration.Tests",
-      "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
+      "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
       "packagesPath": "C:\\Users\\claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests\\obj\\",
+      "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12154,11 +12154,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {
-              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj"
+            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {
+              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj"
             },
-            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj": {
-              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj"
+            "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj": {
+              "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj"
             }
           }
         }
