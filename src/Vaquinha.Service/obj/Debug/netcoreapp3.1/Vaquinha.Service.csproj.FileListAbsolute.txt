@@ -1,0 +1,14 @@
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+C:\Users\claudio\Desktop\cf1041f0-de5c-4635-94a9-f25ace2de771\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb

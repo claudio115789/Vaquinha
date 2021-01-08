@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "yI4TkkCb42KLcx60cSc5aNSLun5BUhBO+rlaqXK7HpTeQIVvXP61OaopNAP3X/lZwFGw3/MpSTzYIscnr1UPLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\claudio\\Documents\\GitHub\\Vaquinha\\Vaquinha\\dotnet-vaquinha-tests-master\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claudio\\.nuget\\packages\\carbon.data.protection\\1.4.0\\carbon.data.protection.1.4.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\carbon.packaging\\1.48.0\\carbon.packaging.1.48.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\carbon.storage\\3.0.0\\carbon.storage.3.0.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\carbon.versioncontrol\\2.5.0\\carbon.versioncontrol.2.5.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\carbon.versioning\\1.9.0\\carbon.versioning.1.9.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\github\\1.32.0\\github.1.32.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\claudio\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
